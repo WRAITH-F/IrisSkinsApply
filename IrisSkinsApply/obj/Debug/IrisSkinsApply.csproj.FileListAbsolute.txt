@@ -1,1 +1,11 @@
 F:\myCode\inkNovel\IrisSkinsApply\IrisSkinsApply\bin\Debug\IrisSkinsApply.exe.config
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\bin\Debug\IrisSkinsApply.exe.config
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\bin\Debug\IrisSkinsApply.exe
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\bin\Debug\IrisSkinsApply.pdb
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\bin\Debug\IrisSkin4.dll
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\obj\Debug\IrisSkinsApply.csprojResolveAssemblyReference.cache
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\obj\Debug\IrisSkinsApply.IrisSkinsApply.resources
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\obj\Debug\IrisSkinsApply.Properties.Resources.resources
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\obj\Debug\IrisSkinsApply.csproj.GenerateResource.Cache
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\obj\Debug\IrisSkinsApply.exe
+F:\myCode\code\IrisSkinsApply\IrisSkinsApply\obj\Debug\IrisSkinsApply.pdb
